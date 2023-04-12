@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "esp8266_modbusgate_board-rescue")(type "Legacy")(uri "${KIPRJMOD}/esp8266_modbusgate_board-rescue.lib")(options "")(descr ""))
+  (lib (name "mylib")(type "Legacy")(uri "${KIPRJMOD}/mylib.lib")(options "")(descr ""))
+)

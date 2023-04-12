@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name esp8266_modbusgate_board)(type KiCad)(uri "$(KIPRJMOD)")(options "")(descr ""))
+)
